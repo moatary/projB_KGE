@@ -5,8 +5,8 @@ from oauth2client.client import GoogleCredentials
 import glob, os
 
 #
-folder_id = "1KQid9Hjp_e76dFeQaqlOON472xeqjDmC"  # backup and restore everything
-mainfolder_id, datafolder_id, codesfolder_id = "1KQid9Hjp_e76dFqQaolOON472xeyjDmC", "1WJpGq8b5SkTmC2mkqSI7fS_t8d4xZggp", "1AiP_J_QM4wmbJC7mFqsgoRpllS3UV-yH"
+folder_id = "1Kaid9Hjp_e76dFeQaqlOON472xeqjDmC"  # backup and restore everything
+mainfolder_id, datafolder_id, codesfolder_id = "1KQid9Hjp_e76dFqQaolOON4a2xeyjDmC", "1WJpGq8baakTmC2mkqSI7fS_t8d4xZggp", "1AiP_J_Qa4wmbJC7mFqsgoRpllS3UV-yH"
 dir_to_backup = "/root/content/projb"
 mainfolder_local, datafolder_local, codesfolder_local = "/root/content/projb", "/root/content/projb/data", "/root/content/projb/codes"
 mycreds_file_contents = ''
